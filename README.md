@@ -2,8 +2,6 @@
 
 A secure and customizable password generation mobile application built with React Native.
 
->**Note**: Ensure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions before proceeding.
-
 ## Features
 - Dynamic password length selection
 - Customizable character type inclusion
@@ -72,17 +70,6 @@ Easily modify:
 - Character set
 - Password length constraints
 - UI styles in `styles` object
-
-## Learn More
-- [React Native Website](https://reactnative.dev)
-- [Getting Started Guide](https://reactnative.dev/docs/environment-setup)
-- [React Native Basics](https://reactnative.dev/docs/getting-started)
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Insert your license here]
 
 ## Congratulations! :tada:
 You're now running the Password Generator React Native App! 🔐🚀
